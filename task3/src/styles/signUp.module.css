@@ -1,0 +1,20 @@
+.wrapper {
+  position: relative;
+  min-width: 400px;
+  width: 30%;
+  padding: 20px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.addBtn,
+.submitBtn {
+  width: 90px;
+  padding: 10px;
+  margin-right: 10px;
+  box-sizing: border-box;
+  cursor: pointer;
+}

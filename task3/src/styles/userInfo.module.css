@@ -1,0 +1,10 @@
+.userInfoBox {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background-color: lightgray;
+  padding: 20px;
+}
+.boldSpan {
+  font-weight: bold;
+}
